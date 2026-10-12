@@ -1,0 +1,4 @@
+interface:
+  display_name: "自学助手（learn）"
+  short_description: "中文小步自学，弹窗逐题作答，检查掌握后继续并保存学习进度"
+  default_prompt: "使用 $learn 带我逐步学习：一次一个知识点，通过原生输入框逐题提问，等我回答并检查掌握后再继续。"
